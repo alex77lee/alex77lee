@@ -1,8 +1,5 @@
 ### Hi there,I'm Alex 👋
 
-###  :hammer:  Language
-
-[![Top Langs](https://github-profile-trophy.vercel.app/?username=alex77lee&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/alex77lee)
 
 Here are some ideas to get you started:
 
@@ -14,6 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+###  :hammer:  Language
+
+[![Top Langs](https://github-profile-trophy.vercel.app/?username=alex77lee&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/alex77lee)
 
 [![alex77lee's github stats](https://github-readme-stats.vercel.app/api?username=alex77lee&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
