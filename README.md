@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**alex77lee/alex77lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![alex77lee's github stats](https://github-readme-stats.vercel.app/api?username=alex77lee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+###  :hammer:  Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex77lee&hide=html,css)](https://github.com/alex77lee)
