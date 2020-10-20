@@ -1,4 +1,9 @@
 ### Hi there,I'm Alex 👋
+![Java](https://img.shields.io/badge/Java---?color=333&logo=Java&logoColor=orange&style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python---?logo=python&style=for-the-badge&color=9cf)](https://python.org)
+![PHP](https://img.shields.io/badge/php---?logo=php&style=for-the-badge&color=9cf)
+![Spring](https://img.shields.io/badge/Spring---?color=brightgreen&logo=Spring&logoColor=fff&style=for-the-badge)
+[![MySQL](https://img.shields.io/badge/-MySQL-336791?logo=MySQL&logoColor=white&link=https://www.postgresql.org/&style=for-the-badge)](https://www.mysql.com/)
 
 
 Here are some ideas to get you started:
