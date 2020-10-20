@@ -2,7 +2,7 @@
 
 ###  :hammer:  Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex77lee&hide=html,css)](https://github.com/alex77lee)
+[![Top Langs](https://github-profile-trophy.vercel.app/?username=alex77lee&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/alex77lee)
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![alex77lee's github stats](https://github-readme-stats.vercel.app/api?username=alex77lee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![alex77lee's github stats](https://github-readme-stats.vercel.app/api?username=alex77lee&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
