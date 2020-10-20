@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,I'm Alex 👋
 
 [![alex77lee's github stats](https://github-readme-stats.vercel.app/api?username=alex77lee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
