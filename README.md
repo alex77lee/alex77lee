@@ -1,6 +1,8 @@
 ### Hi there,I'm Alex 👋
 
-[![alex77lee's github stats](https://github-readme-stats.vercel.app/api?username=alex77lee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+###  :hammer:  Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex77lee&hide=html,css)](https://github.com/alex77lee)
 
 Here are some ideas to get you started:
 
@@ -13,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![alex77lee's github stats](https://github-readme-stats.vercel.app/api?username=alex77lee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-###  :hammer:  Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex77lee&hide=html,css)](https://github.com/alex77lee)
